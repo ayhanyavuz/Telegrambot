@@ -1,8 +1,0 @@
-python-dotenv
-yfinance
-aiohttp
-mplfinance
-selenium
-webdriver-manager
-ta
-flask
